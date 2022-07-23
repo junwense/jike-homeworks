@@ -5,7 +5,7 @@ import com.sean.base.ListNode;
 
 /**
  * @ClassName leetcode21
- * @Description: TODO
+ * @Description: 合并2个有序链表
  * @Author a9705
  * @Date 2022/7/22
  * @Version V1.0

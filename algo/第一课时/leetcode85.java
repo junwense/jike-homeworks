@@ -4,7 +4,7 @@ import java.util.Stack;
 
 /**
  * @ClassName leetcode85
- * @Description: TODO
+ * @Description: 最大矩阵
  * @Author a9705
  * @Date 2022/7/23
  * @Version V1.0
@@ -30,7 +30,7 @@ public class leetcode85 {
                     temp[j] = 0;
                 }
             }
-
+            //按行读取矩阵后，temp里面存的就是一个最大矩阵的数组
             ans = Math.max(ans, largestRectangleArea(temp));
         }
 

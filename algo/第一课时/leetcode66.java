@@ -2,7 +2,7 @@ package com.sean;
 
 /**
  * @ClassName leetcode66
- * @Description: TODO
+ * @Description: 加一
  * @Author a9705
  * @Date 2022/7/23
  * @Version V1.0

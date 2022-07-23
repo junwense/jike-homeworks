@@ -2,7 +2,7 @@ package com.sean;
 
 /**
  * @ClassName leetcode641
- * @Description: TODO
+ * @Description: 设计循环双端队列
  * @Author a9705
  * @Date 2022/7/22
  * @Version V1.0
