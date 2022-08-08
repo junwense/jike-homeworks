@@ -6,3 +6,14 @@
 
   leetcode538.java文件
 
+- [课程表 II ](https://leetcode-cn.com/problems/course-schedule-ii/)（Medium）
+
+  leetcode210.java文件
+
+- [冗余连接 II ](https://leetcode-cn.com/problems/redundant-connection-ii/)（Hard）
+
+  leetcode685.java文件
+  
+  [设计推特](https://leetcode-cn.com/problems/design-twitter/)（Medium）
+  
+  leetcode355.java文件
