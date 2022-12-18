@@ -1,4 +1,4 @@
-module gitub.com/jike-homeworks/go
+module gitub.com/jike-homeworks/geektime-go
 
 go 1.18
 
